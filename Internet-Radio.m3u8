@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:0,PL: RMF DANCE
+http://rs6-krk2.rmfstream.pl/rmf_dance
+#EXTINF:0,PL: RMF 90S DANCE
+http://rs6-krk2.rmfstream.pl/rmf_90s_dance
+#EXTINF:0,PL: FTB Club
+http://play.radioftb.net:8000/stream
+#EXTINF:0,NL: Q-Dance Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCE.mp3
+#EXTINF:0,NL: SLAM! Non-Stop
+http://stream.slam.nl/web10_mp3
+#EXTINF:0,NL: SLAM! Hardstyle
+http://stream.slam.nl/web11_mp3
+#EXTINF:0,DE: CoreTime.FM - 24h Hardcore, Industrial, Speedcore and More
+http://listen.coretime.fm/tunein-mp3-pls
+#EXTINF:0,DE: HardBase.FM - 24h Hardstyle, Jumpstyle and More
+http://listen.hardbase.fm/tunein-mp3-pls
+#EXTINF:0,DE: Laut.FM
+http://stream.laut.fm/simulator1
+#EXTINF:0,DE: TechnoBase.FM - 24h Techno, Dance, HandsUp and More
+http://dsl.tb-stream.net/
+#EXTINF:0,DE: Hitradio RT1 Eurodance
+http://rt1.radio/ol438
+#EXTINF:0,DE: Hitradio RT1 Dance
+http://rt1.radio/ewd8i
+#EXTINF:0,DE: Hitradio RT1 2000er
+http://rt1.radio/k8pq0
+#EXTINF:0,DE: 0 N - 90s on Radio
+http://0n-70s.radionetz.de:8000/0n-90s.mp3
+#EXTINF:0,DE: FEIERFREUND - 90er Dance-Party
+http://streams.feierfreund.de/dance/mp3-192
+#EXTINF:0,UK: Dance UK Radio danceradiouk
+http://dancestream.danceradiouk.com/stream/1/
+#EXTINF:0,UK: RTO Trance - Radio Time Out Trance
+http://s3.slotex.pl/shoutcast/7056/stream
+#EXTINF:0,UK: Truckers FM
+http://live.truckers.fm/
+#EXTINF:0,CH: 1.FM - Absolute 90s Party Zone Radio
+http://strm112.1.fm/partyzone90s_mobile_mp3
+#EXTINF:0,RU: Radio Hot Dance [ru]
+http://91.236.145.238:810/
+#EXTINF:0,RU: Record
+http://hls-01-radiorecord.hostingradio.ru/record/96/playlist.m3u8
+#EXTINF:0,Auto-DJ
+http://listen1.myradio24.com/5967
